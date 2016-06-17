@@ -1,0 +1,65 @@
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\roslyn\csc.exe
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\roslyn\System.Collections.Immutable.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\roslyn\vbc.exe
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\roslyn\VBCSCompiler.exe
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\roslyn\VBCSCompiler.exe.config
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\CRUD process.dll.config
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\CRUD process.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\CRUD process.pdb
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Antlr3.Runtime.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\EntityFramework.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\EntityFramework.SqlServer.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.Owin.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.Owin.Security.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.Owin.Security.Google.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.Web.Infrastructure.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Newtonsoft.Json.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Owin.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\System.Web.Optimization.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\System.Web.Providers.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\WebGrease.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\System.Web.Optimization.xml
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Antlr3.Runtime.pdb
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Newtonsoft.Json.xml
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\EntityFramework.xml
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\EntityFramework.SqlServer.xml
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\System.Web.Providers.xml
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.Owin.xml
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.Owin.Security.xml
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.Owin.Security.Google.xml
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\obj\Debug\CRUD process.dll
+c:\users\draig\documents\visual studio 2015\Projects\CRUD process\CRUD process\obj\Debug\CRUD process.pdb
